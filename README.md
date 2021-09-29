@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kento-yoshidu&layout=compact&theme=tokyonight)](https://github.com/kento-yoshidu/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kento-yoshidu)](https://github.com/ryo-ma/github-profile-trophy)
