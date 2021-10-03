@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/kento-yoshidu/github-readme-stats"><!-- リポジトリステータス -->
-  <img align="left" src=https://github-readme-stats.vercel.app/api?username=kento-yoshidu&hide=contribs&count_private=true&show_icons=true&theme=tokyonight) />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kento-yoshidu&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
   
 <!-- ソースコード統計 -->
