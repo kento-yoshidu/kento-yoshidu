@@ -10,4 +10,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kento-yoshidu&layout=compact&theme=tokyonight" />
 </a>
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=kento-yoshidu)](https://github.com/kento-yoshidu/github-profile-trophy)
+-->
