@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I ❤ HTML & CSS
+
 <!--
 <a href="https://github.com/kento-yoshidu/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kento-yoshidu&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
